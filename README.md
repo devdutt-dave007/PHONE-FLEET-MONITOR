@@ -25,4 +25,4 @@ Monitoring multiple Android devices manually means constantly checking each one.
 ## Part of PHONE-FLEET
 This script is a small linked part of the broader [PHONE-FLEET](https://github.com/devdutt-dave007/PHONE-FLEET) project.
 
-#As we extract every bit of work from old devices, it's equally important to keep a watchful eye on them.
+As we extract every bit of work from old devices, it's equally important to keep a watchful eye on them.
